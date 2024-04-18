@@ -1,0 +1,49 @@
+/* Library.module.scss */
+/* .searchBox {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    margin-top: auto;
+    height: 2.5rem;
+    width: 60%;
+    margin-top: 1.5rem;
+} */
+
+
+.BodyComponent {
+    padding-top: 3.5rem;
+  }
+  
+  #search-box {
+    margin-top: 40px;
+   
+  }
+  
+  /* .searchBox {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    margin-top: auto;
+    height: 2.5rem;
+    width: 300px;
+    margin-top: 1.5rem;
+    
+  } */
+
+.form-control {
+    height: 25px;
+    width: 50%;
+    margin-top: 10px
+
+}
+
+
+.booklist-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+
+  
